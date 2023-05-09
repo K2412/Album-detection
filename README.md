@@ -1,8 +1,12 @@
 
 ## Screenshots
 
-![App Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTIwMzAyM2Q5MjNmYTY5MWM1MzU4ODQyNjRmYTlmOWUwOTU2NTY0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bq2piTddf5ClmGJe5w/giphy.gif)
-![App Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIxOTAwMmQzODVkMjVjNzY1NTBlMTcwY2Q1YTE0NDE3ZjZjYWY1MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/OuBHF8GQXq1Ixf8pak/giphy.gif)
+
+
+https://github.com/K2412/Album-detection/assets/55210141/564413d9-e80e-48c0-8445-5b5a2899fc53
+
+
+
 
 ![App Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1MDYwOTYyNzIzMTZjMGRlZDI1NjM2MmRjM2EzZDRjMGE4ZTc5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UynoG3AdeVMpyqdcXC/giphy.gif)
 
