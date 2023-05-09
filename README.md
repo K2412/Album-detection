@@ -7,6 +7,10 @@ https://github.com/K2412/Album-detection/assets/55210141/564413d9-e80e-48c0-8445
 
 
 
+https://github.com/K2412/Album-detection/assets/55210141/90a636d9-d667-4fd2-810d-5b682393f781
+
+
+
 
 ![App Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1MDYwOTYyNzIzMTZjMGRlZDI1NjM2MmRjM2EzZDRjMGE4ZTc5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UynoG3AdeVMpyqdcXC/giphy.gif)
 
