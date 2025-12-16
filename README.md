@@ -23,7 +23,7 @@ I recently was gifted a vintage record player and have started buying vinyl reco
 
 ## Tech Stack
 
-**Client:** Flutter
+**Client:** Streamlit
 
 **Server:**FastAPI
 
